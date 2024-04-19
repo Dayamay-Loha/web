@@ -1,3 +1,3 @@
-# web
-this is a web repo
+Web Development
+This is my first wev dev project on GitHub
 Author - Dayamay Loha
